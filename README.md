@@ -19,7 +19,7 @@ chmod +x malf.sh
 ```
 or
 ```
-bash ./malf.sh hackerone.com
+bash ./malf.sh health.gov.il
 ```
 
 This will work beatifully on Kali but an ultimately universal way is through Docker. Just run 
