@@ -14,8 +14,7 @@
 # Variables                                                                ## General
 version="1.0"                   ## Version Year.Day
 author="Mr Panda"               ## Author
-updatedate="July 5,2023"       ## The date of the last update
-releasedate="July 3, 2023"       ## The date of release
+releasedate="July 11, 2023"       ## The date of release
 example_domain="health.gov.il"   ## Example domain
 domain=$1                       ## Get the domain
 gsite="site:$domain"            ## Google Site
@@ -1016,7 +1015,7 @@ echo -e "$ORANGE $CLEAR_FONT$GREEN_BOLD\t\t\t╚═╝░░░░░╚═╝�
 echo -e "";
 echo -e "$ORANGE[ ! ] ADMIN LOGIN FINDER  $CLEAR_FONT";
 echo -e "$ORANGE[ ! ] Version: $version $CLEAR_FONT";
-echo -e "$ORANGE[ ! ]  Author:  $author $CLEAR_FONT";
+echo -e "$ORANGE[ ! ] Author:  $author $CLEAR_FONT";
 echo -e "";
 
 
