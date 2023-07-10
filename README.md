@@ -1,3 +1,5 @@
+![malf](https://github.com/MrP4nda1337/malf/blob/main/banner.png)
+
 # Myopecs Admin Login Finder
 
 The MYopecs project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread file types and path traversal. The 99% automated.
