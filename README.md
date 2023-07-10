@@ -1,4 +1,4 @@
-![malf](https://github.com/MrP4nda1337/malf/blob/main/banner.png)
+![banner](https://github.com/MrP4nda1337/malf/blob/main/banner.png)
 
 # Myopecs Admin Login Finder
 
@@ -34,3 +34,4 @@ docker run -it --rm FOO mysite.com
 
 Screenshots:
 ------------
+![screenshot](https://github.com/MrP4nda1337/malf/blob/main/screenshoot.png)
