@@ -1,5 +1,8 @@
 ![banner](https://github.com/MrP4nda1337/malf/blob/main/banner.png)
 
+[![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20Android-yellowgreen.svg)](https://termux.com/)
+</center>
+
 # Myopecs Admin Login Finder
 
 The MYopecs project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread file types and path traversal. The 99% automated.
