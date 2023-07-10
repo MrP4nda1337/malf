@@ -13,8 +13,8 @@
 
 # Variables                                                                ## General
 version="1.0"                   ## Version 
-releasedate="July 15, 2023"       ## The date of release
-example_domain="hackerone.com"   ## Example domain
+releasedate="July 10, 2023"       ## The date of release
+example_domain="isoc.org.il"   ## Example domain
 domain=$1                       ## Get the domain
 gsite="site:$domain"            ## Google Site
 folder="outputs"                ## Output folder name
