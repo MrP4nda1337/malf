@@ -1,5 +1,5 @@
 ![banner](https://github.com/MrP4nda1337/malf/blob/main/banner.png)
-
+![google](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 [![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20Android-yellowgreen.svg)](https://termux.com/)
 </center>
 
