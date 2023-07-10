@@ -1013,7 +1013,7 @@ echo -e "$ORANGE $CLEAR_FONT$GREEN_BOLD\t\t\t██║╚██╔╝██║�
 echo -e "$ORANGE $CLEAR_FONT$GREEN_BOLD\t\t\t██║░╚═╝░██║░░░██║░░░╚█████╔╝██║░░░░░███████╗╚█████╔╝██████╔╝$CLEAR_FONT";
 echo -e "$ORANGE $CLEAR_FONT$GREEN_BOLD\t\t\t╚═╝░░░░░╚═╝░░░╚═╝░░░░╚════╝░╚═╝░░░░░╚══════╝░╚════╝░╚═════╝░$CLEAR_FONT";
 echo -e "";
-echo -e "$ORANGE[ ! ] ADMIN LOGIN FINDER  $CLEAR_FONT";
+echo -e "$ORANGE[ ! ] Tools: ADMIN LOGIN FINDER  $CLEAR_FONT";
 echo -e "$ORANGE[ ! ] Version: $version $CLEAR_FONT";
 echo -e "$ORANGE[ ! ] Author:  $author $CLEAR_FONT";
 echo -e "";
