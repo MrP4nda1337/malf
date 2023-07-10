@@ -12,9 +12,8 @@
 ############################################################################
 
 # Variables                                                                ## General
-version="1.0"                   ## Version Year.Day
-updatedate="July 5,2023"       ## The date of the last update
-releasedate="July 3, 2023"       ## The date of release
+version="1.0"                   ## Version 
+releasedate="July 15, 2023"       ## The date of release
 example_domain="hackerone.com"   ## Example domain
 domain=$1                       ## Get the domain
 gsite="site:$domain"            ## Google Site
