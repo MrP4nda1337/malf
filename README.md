@@ -15,7 +15,7 @@ Usage example:
 git clone https://github.com/MrP4nda1337/malf.git
 cd malf
 chmod +x malf.sh
-./malf.sh hackerone.com
+./malf.sh health.gov.il
 ```
 or
 ```
