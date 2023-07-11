@@ -15,11 +15,11 @@ Usage example:
 git clone https://github.com/MrP4nda1337/malf.git
 cd malf
 chmod +x malf.sh
-./malf.sh hackerone.com
+./malf.sh health.gov.il
 ```
 or
 ```
-bash ./malf.sh hackerone.com
+bash ./malf.sh health.gov.il
 ```
 
 This will work beatifully on Kali but an ultimately universal way is through Docker. Just run 
@@ -36,4 +36,4 @@ docker run -it --rm FOO mysite.com
 
 Screenshots:
 ------------
-![screenshot](https://github.com/MrP4nda1337/malf/blob/main/screenshot.jpg)
+![screenshot](https://github.com/MrP4nda1337/malf/blob/main/shot.jpg)
