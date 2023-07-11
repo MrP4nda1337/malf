@@ -36,4 +36,4 @@ docker run -it --rm FOO mysite.com
 
 Screenshots:
 ------------
-![screenshot](https://github.com/MrP4nda1337/malf/blob/main/screenshot.jpg)
+![screenshot](https://github.com/MrP4nda1337/malf/blob/main/sshot.jpg)
