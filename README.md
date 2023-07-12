@@ -41,7 +41,7 @@ Screenshots:
 ------------
 ![screenshot](https://github.com/MrP4nda1337/malf/blob/main/sshot.jpg)
 
-Team:
+Credits:
 ------------
 <a href="https://github.com/mrp4nda1337/"><img title="Team" src="https://img.shields.io/badge/MYOPECS-MrHery-brightgreen?style=for-the-badge&logo=github"></a><br>
 <a href="https://github.com/TimunGoreng20/"><img title="Team" src="https://img.shields.io/badge/MYOPECS-TimunGoreng20-brightgreen?style=for-the-badge&logo=github"></a>
