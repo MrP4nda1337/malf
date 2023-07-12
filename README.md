@@ -1,3 +1,6 @@
+<p align="center">
+<a href="https://github.com/mrp4nda1337/"><img title="Github" src="https://img.shields.io/badge/MYOPECS-MrPanda-brightgreen?style=for-the-badge&logo=github"></a></p><br>
+
 ![banner](https://github.com/MrP4nda1337/malf/blob/main/banner.png)
 
 ![google](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
