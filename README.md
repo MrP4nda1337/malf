@@ -40,3 +40,7 @@ Note:- This Tool For Educational Purposes Only We are not responsible for any mi
 Screenshots:
 ------------
 ![screenshot](https://github.com/MrP4nda1337/malf/blob/main/sshot.jpg)
+
+Team:
+------------
+<a href="https://github.com/mrp4nda1337/"><img title="Team" src="https://img.shields.io/badge/MYOPECS-MrHery-brightgreen?style=for-the-badge&logo=github"></a>
