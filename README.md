@@ -41,10 +41,14 @@ Screenshots:
 ------------
 ![screenshot](https://github.com/MrP4nda1337/malf/blob/main/sshot.jpg)
 
-Support:
+Supports:
 ------------
 <a href="https://github.com/mrp4nda1337/"><img title="Team" src="https://img.shields.io/badge/MYOPECS-MrHery-brightgreen?style=for-the-badge&logo=github"></a><br>
 <a href="https://github.com/TimunGoreng20/"><img title="Team" src="https://img.shields.io/badge/MYOPECS-TimunGoreng20-brightgreen?style=for-the-badge&logo=github"></a><br>
 <a href="https://github.com/DarkKing690/"><img title="Team" src="https://img.shields.io/badge/MYOPECS-DarkKing690-brightgreen?style=for-the-badge&logo=github"></a>
 <br>
 <a href="https://github.com/Kakarothz/"><img title="Team" src="https://img.shields.io/badge/MYOPECS-Kakarothz-brightgreen?style=for-the-badge&logo=github"></a>
+<br>
+<a href="https://github.com/SEN4L/"><img title="Team" src="https://img.shields.io/badge/MYOPECS-SEN4L-brightgreen?style=for-the-badge&logo=github"></a>
+<br>
+<a href="https://github.com/sampanBuruk/"><img title="Team" src="https://img.shields.io/badge/MYOPECS-sampanBuruk-brightgreen?style=for-the-badge&logo=github"></a>
