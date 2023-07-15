@@ -51,4 +51,8 @@ Supports:
 <br>
 <a href="https://github.com/SEN4L/"><img title="Team" src="https://img.shields.io/badge/MYOPECS-SEN4L-brightgreen?style=for-the-badge&logo=github"></a>
 <br>
-<a href="https://github.com/sampanBuruk/"><img title="Team" src="https://img.shields.io/badge/MYOPECS-sampanBuruk-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/sampanBuruk/"><img title="Team" src="https://img.shields.io/badge/MYOPECS-sampanBuruk-brightgreen?style=for-the-badge&logo=github"></a><br>
+<a href="https://github.com/0xCoolAnon/"><img title="Team" src="https://img.shields.io/badge/MYOPECS-0xCoolAnon-brightgreen?style=for-the-badge&logo=github"></a>
+
+
+
